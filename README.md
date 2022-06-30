@@ -10,9 +10,9 @@ Note : Alexa can only work if you add the word alexa in your command.
 - Tells you Date
 - Tells you Time
 - Contains Wikipedia which tells informtion about:
--- Person
--- Thing/Object
--- Place
+   1) Person
+   2) Thing/Object
+   3) Place
 - Tells you unlimited jokes.
 - Will stop working when you say the command stop.
 - If it didnt get your command then it will talk you back as "Sorry! Please say the command again.".
